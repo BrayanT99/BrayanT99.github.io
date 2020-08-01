@@ -1,0 +1,73 @@
+{
+	margin: 0;
+	padding: 0;
+}
+html {blackground-color:black;}
+
+body {width: 930px;height: 930px;margin:auto; background-color: white}
+
+.tabla{
+	border: 1px solid red;
+	padding: 15px;
+	margin: 15px;
+}
+
+.encabezado{
+	border: 1px solid yellow;
+	padding: 5px;
+	margin: 5px;
+	height: 200px;
+	width: 900px;
+}
+
+.barradenavegacion{
+	border: 1px solid purple;
+	padding: 5px;
+	margin: 5px;
+	height: 150px;
+	width: 900px;
+}
+
+.inicio{
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	height: 450px;
+	width: 900px;
+}
+
+.contenido{
+	border: 1px solid pink;
+	width: 550px;
+	height: 448px;
+	float: left;
+}
+
+.contenido1{
+	border: 1px solid red;
+	margin: 5px;
+	height: 210px;
+}
+
+.contenido2{
+	border: 1px solid red;
+	margin: 5px;
+	height: 210px;
+}
+
+.for{
+border: 1px solid blue;
+padding: 5px;
+margin: 5px;
+width: 300px;
+height: 435px;
+float: right;
+}
+
+.cel{
+	border: 1px solid green;
+	padding: 5px;
+	margin: 5px;
+	width: 900px;
+	height: 65px;
+}
