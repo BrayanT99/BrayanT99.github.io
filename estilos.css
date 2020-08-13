@@ -7,13 +7,11 @@ html {blackground-color:black;}
 body {width: 930px;height: 810px;margin:auto; padding: auto; background-color: white}
 
 .tabla{
-	border: 1px solid red;
 	padding: auto;
 	margin: auto;
 }
 
 header {
-	border: 1px solid yellow;
 	margin: auto;
 	padding: auto;
 	height: 200px;
@@ -29,7 +27,7 @@ header img {
 
 .barradenavegacion{
 	text-align: center;
-	border: 1px solid purple;
+	border: 1px solid blue; 
 	margin: auto;
 	padding: auto;
 	height: 70px;
