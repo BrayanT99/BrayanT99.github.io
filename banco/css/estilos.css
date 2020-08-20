@@ -18,12 +18,13 @@ header, .main, footer{
 nav{
     background-color: yellow;
     overflow: hidden;
-    width: auto;
-    height: auto;
+    width: 1455px;
+    height: 80px;
 }
 nav ul{
     list-style: none;
     color: white;
+    height: 10px;
 }
 nav ul li{
     float: left;
@@ -124,7 +125,7 @@ input{
     margin-bottom: 2px;
 }
 section{
-    width:70%;
+    width:1070px;
     margin-right: 2%;
     margin-left: 12.9%;
     margin-top: 0px;
@@ -136,7 +137,7 @@ section{
 }
 section article{
     background-color:#D5D4D3;
-    padding: 20px;
+    padding: 27px;
     margin-bottom:20px;
     border-radius: 10px;
     box-shadow: -3px -3px 6px rgb(13, 13, 14);
