@@ -2,7 +2,15 @@
     margin: 0;
     padding: 0;
 }
-body {width: 1455px;height: 1455px;margin:auto; padding: auto; background-color: white}
+body {width: 1000px;height: 1000px;margin:auto; padding:auto; background-color: white}
+
+table{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    padding: 100px;
+}
 
 header img{
     width: 100%;
@@ -18,18 +26,18 @@ header, .main, footer{
 nav{
     background-color: yellow;
     overflow: hidden;
-    width: 1455px;
-    height: 80px;
+    width: 1000px;
+    height: 85px;
 }
 nav ul{
     list-style: none;
     color: white;
-    height: 10px;
+    height: 1px;
 }
 nav ul li{
     float: left;
     padding: 20px;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-top: 15px;
 }
 nav ul li a{
@@ -43,14 +51,14 @@ nav ul li:hover{
     box-shadow: 0px 9px 0px 0px white;
 }
 .aside1{
-    width: 21%;
+    width: 25%;
     background-color: black;
     color: white;
     float: left;
-    padding: 20px;
+    padding: 10px;
     box-sizing: border-box;
     border-radius: 10px;
-    height: 23%;
+    height: 33%;
     box-shadow:3px 3px 3px rgb(5, 10, 87);
     margin-bottom: 0px;
     margin-top: 15px;
@@ -104,17 +112,17 @@ input{
     box-shadow: none;
 }
 .aside2{
-    width: 21%;
+    width: 25%;
     background-color: black;
     float: left;
-    padding: 15px;
+    padding: 5px;
     box-sizing: border-box;
     border-radius: 15px;
-    height: 23%;
+    height: 35%;
     box-shadow:3px 3px 3px rgb(5, 10, 87);
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     margin-top: 380px;
-    margin-left: -300px;
+    margin-left: -250px;
     overflow: hidden;
 }
 .aside2 button{
@@ -125,7 +133,7 @@ input{
     margin-bottom: 2px;
 }
 section{
-    width:1070px;
+    width:625px;
     margin-right: 2%;
     margin-left: 12.9%;
     margin-top: 0px;
@@ -137,7 +145,7 @@ section{
 }
 section article{
     background-color:#D5D4D3;
-    padding: 27px;
+    padding: 20px;
     margin-bottom:20px;
     border-radius: 10px;
     box-shadow: -3px -3px 6px rgb(13, 13, 14);
@@ -169,7 +177,7 @@ article img{
 footer{
     clear: both;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     background-color: black;
     font-family: calibri;
     font-size: 18px;

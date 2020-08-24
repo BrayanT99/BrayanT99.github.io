@@ -26,10 +26,10 @@ header img {
 }
 
 .barradenavegacion{
-	text-align: center;
-	border: 1px solid blue; 
+	text-align: center; 
 	margin: auto;
 	padding: auto;
+	border: 1px solid #D0FFE0;
 	height: 70px;
 	width: 900px;
 	background-color: #1B4A48;
@@ -51,7 +51,6 @@ header img {
 }
 
 .inicio{
-	border: 1px solid black;
 	padding: auto;
 	margin: auto;
 	height: 450px;
@@ -65,7 +64,6 @@ header img {
 }
 
 .contenido1{
-	border: 1px solid red;
 
 	background-color: rgba(253, 255, 128, 1);
 	margin: 5px;
@@ -88,10 +86,10 @@ header img {
 	float: right;
 }
 .contenido2{
-	border: 1px solid red;
 	background-color: rgba(253, 255, 128, 1);
 	margin: 5px;
-	height: 215px;
+	height: 193px;
+	width: auto;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	border-top-right-radius: 10px;
@@ -112,7 +110,6 @@ header img {
 }
 
 .for{
- border: 1px solid blue;
  background-color: hsl(169, 38%, 34%);
  padding: 0%;
  margin: 1%;
@@ -126,7 +123,6 @@ header img {
 }
 
 .for h1{
-	border: 1px solid blue;
 	text-align: center;
 	background-color: #1B4A48;
 	color: #ffffff;
